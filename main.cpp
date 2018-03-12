@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
     w.show();
     if(1){
     printf("Tuto");
+    printf("Test2")
     }
     return a.exec();
 }
